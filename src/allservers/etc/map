@@ -1,0 +1,19 @@
+mapsize 16
+mapdiv 4
+1 castle_020a 1 1 zone1 1
+2 castle_0200 2 1 zone1   
+3 castle_0201 2 1 zone1 
+4 castle_0202 2 1 zone1
+5 castle_030a 2 2 zone2 1 
+6 castle_0300 2 1 zone1 
+7 castle_0301 2 1 zone1 
+8 castle_0302 2 1 zone1 
+9 castle_040a 2 1 zone1 
+10 castle_0400 2 1 zone1 
+11 castle_0401 2 1 zone1 
+12 castle_0402 2 1 zone1
+13 castle_050a 2 1 zone1 
+14 castle_0500 2 1 zone1 
+15 castle_0501 2 1 zone1 
+16 castle_0502 2 1 zone1 
+end
